@@ -40,7 +40,7 @@ export function Header() {
               </a>
               <span className="hidden md:inline text-xs">|</span>
               <a href="tel:5551234567" className="hidden md:inline text-xs hover:text-amber-400 transition-colors">
-                Appointments: (555) 123-4567
+                Appointments: (+234) 0813-6089-655
               </a>
             </div>
           </div>

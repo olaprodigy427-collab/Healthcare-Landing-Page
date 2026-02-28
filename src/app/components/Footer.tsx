@@ -125,17 +125,17 @@ export function Footer() {
               <li className="flex items-start gap-3 group">
                 <MapPin className="h-5 w-5 mt-0.5 flex-shrink-0 text-amber-400" />
                 <span className="text-sm group-hover:text-amber-400 transition-colors">
-                  123 Healthcare Ave, Medical District, City, State 12345
+                  12 Ileji Healthcare Ave, Ado-Odo, Ogun State, Nigeria
                 </span>
               </li>
               <li className="flex items-center gap-3 group">
-                <Phone className="h-5 w-5 flex-shrink-0 text-amber-400" />
+                <Phone className="h-5 w-5 flex-shrink-0 text-amber-4 00" />
                 <div>
                   <a href="tel:911" className="text-sm hover:text-amber-400 transition-colors block">
                     Emergency: 911
                   </a>
                   <a href="tel:5551234567" className="text-sm hover:text-amber-400 transition-colors block">
-                    Main: (555) 123-4567
+                    Main: (+234) 0813-6089-655
                   </a>
                 </div>
               </li>
